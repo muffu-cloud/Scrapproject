@@ -1,0 +1,26 @@
+h1{
+    color: rgba(172, 10, 10, 0.616);
+    background-color: rgba(19, 19, 37, 0.534);
+    cursor: pointer;
+    
+}
+p{
+    color: rgba(36, 158, 12, 0.418);
+    font-size: 35px; 
+    background-color: rgba(133, 8, 8, 0.795);
+    
+}
+body{
+    background-color: rgba(21, 88, 4, 0.842); 
+    background-size: 100%;
+}
+a{ cursor:default; 
+}
+.ny{
+    border: dashed rgba(99, 10, 87, 0.774);
+    color:rgba(0, 128, 0, 0.719);
+    background-color: black;
+
+}
+
+    
